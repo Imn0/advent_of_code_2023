@@ -18,3 +18,7 @@ day7/*.jar
 day6/*.hi
 day6/*.o
 day6/*
+
+# scala
+day8/*.class
+day8/*.tasty
