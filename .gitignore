@@ -1,5 +1,20 @@
-*/node_modules
-*.o
-*.hi
-!*.*
-*.jar
+# type script
+day2/*.js
+day2/node_modules
+
+# c/c++
+day3/*.out
+day3/*.o
+day5/*.out
+day5/*.o
+
+# java/kotlin
+day4/*.class
+day4/*.jar
+day7/*.class
+day7/*.jar
+
+# haskell
+day6/*.hi
+day6/*.o
+day6/*
