@@ -22,3 +22,6 @@ day6/*
 # scala
 day8/*.class
 day8/*.tasty
+
+# ryst
+day10/target
