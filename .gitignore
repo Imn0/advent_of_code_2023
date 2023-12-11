@@ -22,3 +22,7 @@ day6/*
 # scala
 day8/*.class
 day8/*.tasty
+
+# C#
+day11/bin
+day11/obj
