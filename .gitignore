@@ -23,5 +23,9 @@ day6/*
 day8/*.class
 day8/*.tasty
 
+# C#
+day11/bin
+day11/obj
+
 # ryst
 day10/target
