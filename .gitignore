@@ -27,5 +27,11 @@ day8/*.tasty
 day11/bin
 day11/obj
 
-# ryst
+# rust
 day10/target
+
+#zig
+day14/*
+!day14/*/
+!day14/*.*
+day14/*.o
