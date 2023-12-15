@@ -30,8 +30,15 @@ day11/obj
 # rust
 day10/target
 
-#zig
+# zig
 day14/*
 !day14/*/
 !day14/*.*
 day14/*.o
+
+# ada
+day15/*
+!day15/*/
+!day15/*.*
+day15/*.ali
+day15/*.o
