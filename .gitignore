@@ -29,6 +29,7 @@ day11/obj
 
 # rust
 day10/target
+day18/target
 
 # zig
 day14/*
